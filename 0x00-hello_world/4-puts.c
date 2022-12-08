@@ -2,13 +2,6 @@
 /**
  * Print line using puts
  *
- *
- *
- *
- *
- *
- *
- *
  * Return: 0
  */
 
