@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  *  main - mainblock
  *  Return: something
@@ -12,6 +13,7 @@ int main(void)
 	k = 2;
 
 	printf("%lu", j);
+
 	for (i = 1; i < 91; i++)
 	{
 		printf(", %lu", k);
